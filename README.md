@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Page Frontend Mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/solution-qr-code-component-56rFw_Ucqd))
+- Solution URL: [Page Frontend Mentor](https://www.frontendmentor.io/solutions/solution-qr-code-component-56rFw_Ucqd)
 - Live Site URL: [Page Public](https://frontendmentor-qr-code-component-wine.vercel.app/)
 
 ### Built with
